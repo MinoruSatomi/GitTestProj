@@ -1,5 +1,16 @@
 [ {
   "baseItem" : {
+    "id" : "_E3dtgP53Eey9_8vdN90kFw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_oqUXwP51Eey9_8vdN90kFw",
     "version" : "0.1",
     "type" : "job"
@@ -16,5 +27,16 @@
     "id" : "_rWu6sP51Eey9_8vdN90kFw - X事業部",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_E3dtgP53Eey9_8vdN90kFw",
+    "version" : "0.1",
+    "type" : "test_case"
+  },
+  "relatedItems" : [ {
+    "id" : "_oqUXwP51Eey9_8vdN90kFw",
+    "version" : "0.1",
+    "type" : "test_case"
   } ]
 } ]
